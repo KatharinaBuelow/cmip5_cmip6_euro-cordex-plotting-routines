@@ -1,0 +1,13 @@
+project_id,model_id,experiment_id,time_bounds,ensemble_member,variable,season,mask,mean
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,Jan,deutschland,273.4676
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,Feb,deutschland,274.0981
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,Mar,deutschland,277.552
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,Apr,deutschland,281.5341
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,May,deutschland,286.125
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,June,deutschland,288.8839
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,July,deutschland,291.1504
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,Aug,deutschland,290.7475
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,Sept,deutschland,286.8547
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,Oct,deutschland,282.4496
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,Nov,deutschland,277.5482
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,2t,Dec,deutschland,274.3528

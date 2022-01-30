@@ -1,0 +1,25 @@
+project_id,model_id,experiment_id,time_bounds,ensemble_member,variable,season,mask,mean
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,Jan,deutschland,31.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,Feb,deutschland,59.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,Mar,deutschland,101.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,Apr,deutschland,162.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,May,deutschland,204.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,June,deutschland,217.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,July,deutschland,213.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,Aug,deutschland,182.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,Sept,deutschland,126.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,Oct,deutschland,74.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,Nov,deutschland,35.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,qq,Dec,deutschland,23.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,Jan,deutschland,9.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,Feb,deutschland,13.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,Mar,deutschland,19.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,Apr,deutschland,25.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,May,deutschland,30.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,June,deutschland,31.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,July,deutschland,28.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,Aug,deutschland,24.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,Sept,deutschland,20.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,Oct,deutschland,15.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,Nov,deutschland,10.0
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,qq,Dec,deutschland,7.0

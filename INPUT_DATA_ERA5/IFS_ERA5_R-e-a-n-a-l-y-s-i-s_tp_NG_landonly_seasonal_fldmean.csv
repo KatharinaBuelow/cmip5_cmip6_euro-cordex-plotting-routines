@@ -1,0 +1,6 @@
+project_id,model_id,experiment_id,time_bounds,ensemble_member,variable,season,mask,mean
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,tp,ANN,deutschland,2.8415949e-05
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,tp,DJF,deutschland,2.6353458e-05
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,tp,MAM,deutschland,2.7835868e-05
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,tp,JJA,deutschland,3.2883116e-05
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,tp,SON,deutschland,2.6591353e-05

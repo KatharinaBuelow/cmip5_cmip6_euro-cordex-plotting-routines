@@ -1,0 +1,16 @@
+project_id,model_id,experiment_id,time_bounds,ensemble_member,variable,season,mask,mean
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,ANN,CEU,130.307
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,ANN,MED,209.7398
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,ANN,NEU,101.2994
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,DJF,CEU,77.64756
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,DJF,MED,157.2433
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,DJF,NEU,44.88363
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,MAM,CEU,209.3733
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,MAM,MED,281.2708
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,MAM,NEU,193.0519
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,JJA,CEU,183.1894
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,JJA,MED,271.2704
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,JJA,NEU,145.5646
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,SON,CEU,51.01789
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,SON,MED,129.1749
+ERA5,IFS,Reanalysis,1981-01-01 to 2010-12-31,One,ssrd,SON,NEU,21.69759

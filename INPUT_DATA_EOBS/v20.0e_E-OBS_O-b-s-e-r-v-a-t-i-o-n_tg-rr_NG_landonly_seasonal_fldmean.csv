@@ -1,0 +1,21 @@
+project_id,model_id,experiment_id,time_bounds,ensemble_member,variable,season,mask,mean
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,tg,ANN,deutschland,274.627
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,tg,DJF,deutschland,274.7986
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,tg,MAM,deutschland,274.5825
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,tg,JJA,deutschland,274.5367
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,tg,SON,deutschland,274.5928
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,rr,ANN,deutschland,1.873896e-05
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,rr,DJF,deutschland,1.655114e-05
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,rr,MAM,deutschland,1.71197e-05
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,rr,JJA,deutschland,2.433138e-05
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,spread,rr,SON,deutschland,1.689063e-05
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,tg,ANN,deutschland,282.0428
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,tg,DJF,deutschland,273.9641
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,tg,MAM,deutschland,281.6709
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,tg,JJA,deutschland,290.2098
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,tg,SON,deutschland,282.1727
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,rr,ANN,deutschland,2.484285e-05
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,rr,DJF,deutschland,2.357056e-05
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,rr,MAM,deutschland,2.253515e-05
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,rr,JJA,deutschland,2.90168e-05
+E-OBS,v20.0e,Observation,1981-01-01 to 2010-12-31,mean,rr,SON,deutschland,2.421594e-05
