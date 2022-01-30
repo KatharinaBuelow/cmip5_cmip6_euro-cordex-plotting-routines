@@ -3,9 +3,6 @@ Pictures:
 
 https://confluence.ecmwf.int/display/CKB/Evaluation+of+CDS+climate+projections
 
-Report: 
-
-document/C3S_D34b_Lot2.3.4.2_CS4_GCMsDownscaledEUROCORDEX_RCMs_merged_v2.docx
 
 # Data processing of CMIP5 CMIP6 and EURO-CORDEX
 ### It is still work in progress more will come soon
