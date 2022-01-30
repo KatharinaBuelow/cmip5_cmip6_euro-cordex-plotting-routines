@@ -5,7 +5,6 @@ https://confluence.ecmwf.int/display/CKB/Evaluation+of+CDS+climate+projections
 
 
 # Data processing of CMIP5 CMIP6 and EURO-CORDEX
-### It is still work in progress more will come soon
 
 This is a collection of programs used to compare 
 CMIP5, CMIP6 and EURO-CORDEX data.
