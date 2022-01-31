@@ -1,4 +1,7 @@
 # This work was done in PRINCIPLES (Copernicus, 3CS)
+
+[![DOI](https://zenodo.org/badge/387133599.svg)](https://zenodo.org/badge/latestdoi/387133599)
+
 Pictures:
 
 https://confluence.ecmwf.int/display/CKB/Evaluation+of+CDS+climate+projections
